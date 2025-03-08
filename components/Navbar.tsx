@@ -4,7 +4,6 @@ import Link from "next/link"
 import { useEffect, useState } from "react"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from "@fortawesome/free-solid-svg-icons"
-import Image from "next/image"
 
 export default function Navbar() {
     const [lastScroll, setLastScroll] = useState(0)

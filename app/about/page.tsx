@@ -4,7 +4,7 @@ import Image from "next/image";
 import React from "react";
 import { Timeline } from "@/components/ui/timeline";
 import { CardBody, CardContainer, CardItem } from '@/components/ui/3d-card';
-import { redirect, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
 
 export default function About() {
