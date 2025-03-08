@@ -20,7 +20,7 @@ export default function Home() {
                                     <Link href={'https://github.com/Riii28'} prefetch={false}>Github</Link>
                                 </button>
                                 <button className="bg-black px-8 py-2 rounded-md font-bold border-dashed border-1 border-dark-200 hover:border-transparent duration-500 shadow-md cursor-pointere hover:scale-95 cursor-pointer">
-                                    <Link href={''} prefetch={false}>LinkedIn</Link>
+                                    <Link href={'https://www.linkedin.com/in/ridho-irvan-nurhidayat'} prefetch={false}>LinkedIn</Link>
                                 </button>
                             </div>
                             <h1 className="mt-20 text-gray-400">Teknologi dan alat favorit:</h1>
